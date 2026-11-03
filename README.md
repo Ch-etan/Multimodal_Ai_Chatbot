@@ -4,8 +4,8 @@ Nexa AI is a fully local chatbot that answers questions about your own **PDF, Wo
 
 > Built as a project for *Deep Learning for Data Analytics (BCSML0555B)*, B.Tech CSE (Data Science), NIET, Greater Noida.
 
-![Screenshot](docs/screenshot.png)
-<!-- Add a screenshot at docs/screenshot.png, or delete the line above. -->
+<img width="1917" height="1017" alt="screenshot" src="https://github.com/user-attachments/assets/233f3d29-0ad2-4f10-b06c-2f60c4c83942" />
+
 
 ## Features
 
