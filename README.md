@@ -161,4 +161,4 @@ Built with [Ollama](https://ollama.com), [Qwen2.5-VL](https://arxiv.org/abs/2502
 
 ## Authors
 
-Chetan Chauhan, Harshit Asthana, Khemraj Bhagat.
+Chetan Chauhan, Harshit Asthana, Khemraj Bhagat
