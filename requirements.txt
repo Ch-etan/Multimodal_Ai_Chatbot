@@ -1,0 +1,12 @@
+gradio>=4.44
+ollama
+chromadb
+sentence-transformers
+faster-whisper
+pymupdf
+python-docx
+pandas
+openpyxl
+xlrd
+opencv-python
+pillow

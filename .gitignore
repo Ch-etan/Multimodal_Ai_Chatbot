@@ -1,0 +1,11 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+db/
+data/
+"@ | Set-Content .gitignore
+
+git rm -r --cached . 
+git add .
+git status
